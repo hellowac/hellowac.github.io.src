@@ -3,17 +3,22 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Hello Wac
+subtitle: '个人博客'
+description: '个人积累收藏夹，包括、技术、阅读。'
 keywords:
+  - python
+  - vue
+  - 前端
+  - 后端
 author: hellowac
-language: en
-timezone: ''
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://hellowac.github.io
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
