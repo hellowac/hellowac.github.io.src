@@ -70,9 +70,9 @@ theme:
   profile_shape: circle # support `circle`, `diamond`, `rounded`
   feature: true
   gradient:
-    color_1: '#dee6f7'  # '#24c6dc'
-    color_2: '#cddaf6'  # '#5433ff'
-    color_3: '#e1d5de'  # '#ff0099'
+    color_1: '#24c6dc'  # '#dee6f7'
+    color_2: '#5433ff'  # '#cddaf6'
+    color_3: '#ff0099'  # '#e1d5de'
 
 #! ---------------------------------------------------------------
 #! Social Configs
@@ -119,7 +119,7 @@ gitalk:
   clientID: 'Iv1.c4be60aae97bcc76'
   clientSecret: '9d3d51ed96eef360a4be5b37365c1fa122822e79' 
   repo: 'hellowac.github.io'
-  owner: 'hellowac'
+  owner: '@hellowac'
   admin: ['hellowac']
   id: 'hellowac_aurora'
   language: cn
@@ -165,7 +165,7 @@ copy_protection:
 #! @docs https://aurora.tridiamond.tech/guide/site-meta.html#custom-meta
 #! ---------------------------------------------------------------
 aurora_bot:
-  enable: true  # false
+  enable: false  # false
   locale: cn
   bot_type: dia
   tips: Hi~
