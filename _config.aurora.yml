@@ -54,6 +54,16 @@ menu:
   About: true
   Tags: true
   Archives: true
+  # 多个自定义页面在子菜单
+  FrontLinks:
+    name: '前端常用地址'
+    path: '/post/前端常用地址'
+  BackendLinks:
+    name: '后端常用地址'
+    path: '/post/后端常用地址'
+  OtherLinks:
+    name: '其他常用地址'
+    path: '/post/其他常用地址'
   message-board:
     name: 'MessageBoard'
     i18n:
