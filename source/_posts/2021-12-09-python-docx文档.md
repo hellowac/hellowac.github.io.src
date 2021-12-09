@@ -9,7 +9,8 @@ categories:
 ---
 
 参考原文: <https://python-docx.readthedocs.io/en/latest/index.html> - 官网
-参考翻译: <https://www.zybuluo.com/belia/note/1303813>
+参考翻译: <https://www.zybuluo.com/belia/note/1303813> - 参考1
+参考翻译2: <https://www.osgeo.cn/python-docx/index.html> - 参考2
 
 ## 说明
 
