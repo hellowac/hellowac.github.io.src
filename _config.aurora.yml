@@ -78,7 +78,7 @@ menu:
 theme:
   dark_mode: true
   profile_shape: circle # support `circle`, `diamond`, `rounded`
-  feature: true
+  feature: false  # 指定模式
   gradient:
     color_1: '#24c6dc'  # '#dee6f7'
     color_2: '#5433ff'  # '#cddaf6'
