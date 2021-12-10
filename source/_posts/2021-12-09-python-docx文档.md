@@ -1,6 +1,7 @@
 ---
 title: python-docx文档
 date: 2021-12-09 11:36:59
+updated: 2021-12-10 10:24:14
 cover: images/2021-12-09-python-docx-example.png
 tags:
   - python-docx
@@ -11,6 +12,8 @@ categories:
 参考原文: <https://python-docx.readthedocs.io/en/latest/index.html> - 官网
 参考翻译: <https://www.zybuluo.com/belia/note/1303813> - 参考1
 参考翻译2: <https://www.osgeo.cn/python-docx/index.html> - 参考2
+
+openxml参考: <https://zhuanlan.zhihu.com/p/353332428>
 
 ## 说明
 
