@@ -131,7 +131,7 @@ gitalk:
   repo: 'hellowac.github.io'
   owner: '@hellowac'
   admin: ['hellowac']
-  id: 'hellowac_aurora'
+  id: '156207'
   language: cn
   distractionFreeMode: true
   recentComment: true
