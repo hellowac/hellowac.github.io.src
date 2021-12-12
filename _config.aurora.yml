@@ -184,8 +184,13 @@ aurora_bot:
 #! Injections
 #! @docs https://aurora.tridiamond.tech/guide/site-meta.html#custom-meta
 #! ---------------------------------------------------------------
+
 injects:
   scripts:
-    # - <script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script>
-  css:
-    # - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
+    - <script src='https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js'></script>
+    - "<script> window.onload = function () { if (window.mermaid) { mermaid.initialize({theme: 'forest'});}}; </script>"
+# injects:
+#   scripts:
+#     # - <script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script>
+#   css:
+#     # - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
