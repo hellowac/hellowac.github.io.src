@@ -2,6 +2,7 @@
 title: 前端package.json介绍
 date: 2021-12-12 14:43:51
 updated: 2021-12-12 14:51:34
+toc: true
 tags:
   - 前端
   - package.json
@@ -19,6 +20,9 @@ categories:
 该文件描述的很多行为都受`npm-config`中的配置影响。
 
 下面分别介绍`package.json`中各个字段的含义和用法。
+
+
+<!-- more -->
 
 ## **name**
 

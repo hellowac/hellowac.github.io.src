@@ -14,6 +14,8 @@ hexo new "My New Post"
 
 更多信息: [写文章](https://hexo.io/docs/writing.html)
 
+<!-- more -->
+
 ### Run server
 
 ``` bash

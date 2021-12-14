@@ -1,7 +1,11 @@
 ---
 title: python-etl工具介绍
 date: 2021-12-11 00:00:46
+toc: true
 tags:
+  - ETL
+categories:
+  - 业务
 ---
 
 原文：<https://blog.karatos.in/a?ID=2837049d-fa78-4217-8c0d-f7cc7c9410a6>
@@ -13,6 +17,8 @@ tags:
 As a data warehouse system, ETL is a key part. If it is big, ETL is a data integration solution, if it is small, it is a tool to pour data. Recalling all these years of work, there is really a lot of work dealing with data migration and conversion. But those jobs are basically one-time jobs or a small amount of data, which can be done by using access, DTS, or compiling a small program yourself. However, in the data warehouse system, ETL has risen to a certain theoretical height, which is different from the original tools used for small troubles. What is the difference? You can see from the name that people have divided the data dumping process into three steps. E, T, and L stand for extraction, conversion, and loading, respectively.
 
 作为数据仓库系统，ETL是关键部分。 如果系统很大的话，ETL是数据整合方案，如果系统很小的话，就是倒数据的工具。 回顾这些年的工作，确实有很多处理数据迁移和转换的工作。 但是那些作业基本上都是一次性作业或者少量的数据，可以通过access、DTS或者自己编译一个小程序来完成。 但是，在数据仓库系统中，ETL上升到了一定的理论高度，区别于原来用于小麻烦的工具。 有什么不同？ 从名字上就可以看出人们将数据转储过程分为三个步骤。 E、T 和 L 分别代表提取、转换和加载。
+
+<!-- more -->
 
 In fact, the ETL process is the process of data flow, from different data sources to different target data. But in the data warehouse, ETL has several characteristics.
 
