@@ -1,6 +1,7 @@
 ---
 title: python-stringIO
 date: 2021-12-10 23:11:41
+toc: true
 tags:
   - stringIO
   - python
