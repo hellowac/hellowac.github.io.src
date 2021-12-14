@@ -207,7 +207,7 @@ donates:
 share:
     type: sharethis
     # URL to the ShareThis share plugin script
-    install_url: ''
+    install_url: 'https://platform-api.sharethis.com/js/sharethis.js#property=61b8d8824402240019083138&product=inline-share-buttons'
 # Sidebar configurations.
 # Please be noted that a sidebar is only visible when it has at least one widget
 sidebar:
@@ -266,7 +266,7 @@ widgets:
         # Whether to show the index of each heading
         index: true
         # Whether to collapse sub-headings when they are out-of-view
-        collapsed: true
+        collapsed: false
         # Maximum level of headings to show (1-6)
         depth: 3
     # Recommendation links widget configurations
