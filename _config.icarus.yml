@@ -218,7 +218,7 @@ sidebar:
     # Right sidebar configurations
     right:
         # Whether the sidebar sticks to the top when page scrolls
-        sticky: false
+        sticky: true
 # Sidebar widget configurations
 # http://ppoffice.github.io/hexo-theme-icarus/categories/Widgets/
 widgets:
@@ -234,11 +234,11 @@ widgets:
         # Author's current location
         location: Cheng Du, China
         # URL or path to the avatar image
-        avatar: 'images/avatar.png'
+        avatar: https://avatars.githubusercontent.com/u/24953242 # '/images/avatar.png'
         # Whether show the rounded avatar image
         avatar_rounded: true
         # Email address for the Gravatar
-        gravatar: 116512128@qq.com
+        gravatar: # 116512128@qq.com
         # URL or path for the follow button
         follow_link: 'https://github.com/hellowac'
         # Links to be shown on the bottom of the profile widget
@@ -266,7 +266,7 @@ widgets:
         # Whether to show the index of each heading
         index: true
         # Whether to collapse sub-headings when they are out-of-view
-        collapsed: false
+        collapsed: true
         # Maximum level of headings to show (1-6)
         depth: 3
     # Recommendation links widget configurations
