@@ -91,7 +91,7 @@ document.add_page_break()
 document.save('demo.docx')
 ```
 
-![example](../images/2021-12-09-python-docx-example.png)
+![example](/images/2021-12-09-python-docx-example.png)
 
 ## 用户指南
 
