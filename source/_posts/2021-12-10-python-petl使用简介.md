@@ -20,6 +20,8 @@ categories:
 
 petl是使用原生python编写的ETL包，数据操作逻辑简单，但是处理数据的速度较慢。
 
+<!--more-->
+
 ### ETL pipelines
 
 petl包使用了大量的迭代器和延迟计算，在没有请求函数请求数据时，pipelines 不会开始处理数据。
