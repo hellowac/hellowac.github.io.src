@@ -27,6 +27,8 @@ from io import StringIO
 
 `StringIO`的行为与`file对象`非常像，但它不是磁盘上文件，而是一个内存里的"**文件**"，在内存中读写`str`，我们可以像操作磁盘文件那样来操作`StringIO`，主要用于在内存缓冲区中读写数据。
 
+<!-- more -->
+
 创建一个StingIO对象，寄存在缓冲区，可选参数buf是一个str或unicode类型，它将会与后续写的数据存放一起。如下:
 
 ```python

@@ -16,6 +16,8 @@ categories:
 
 openxml参考: <https://zhuanlan.zhihu.com/p/353332428>
 
+<!--more-->
+
 设置中文字体参考:
 
 - [python-docx中设置中文字体](http://www.jhanmath.com/?p=130) - 个人博客
