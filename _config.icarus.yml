@@ -302,6 +302,7 @@ widgets:
         # Names and URLs of the sites
         links:
             Hexo: 'https://hexo.io'
+            mdBook-cn: 'https://hellowac.github.io/mdbook_doc/'  # mdbook 文档中文翻译
             # Bulma: 'https://bulma.io'
     # Categories widget configurations
     -
