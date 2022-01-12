@@ -306,6 +306,7 @@ widgets:
             psutil-cn: 'https://hellowac.github.io/psutil_doc/'  # psutil 文档中文翻译
             mermaid-cn: 'https://hellowac.github.io/mermaid_doc/'  # mermaid 文档中文翻译
             alembic-cn: 'https://hellowac.github.io/alembic_doc/'  # alembic 文档中文翻译
+            pyquery-cn: 'https://hellowac.github.io/pyquery_doc/'  # pyquery 文档中文翻译
             # ddd-cn: 'https://hellowac.github.io/ddd_doc/'  # ddd 文档中文翻译
             # Bulma: 'https://bulma.io'
     # Categories widget configurations
