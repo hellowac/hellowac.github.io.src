@@ -307,6 +307,9 @@ widgets:
             mermaid-cn: 'https://hellowac.github.io/mermaid_doc/'  # mermaid 文档中文翻译
             alembic-cn: 'https://hellowac.github.io/alembic_doc/'  # alembic 文档中文翻译
             pyquery-cn: 'https://hellowac.github.io/pyquery_doc/'  # pyquery 文档中文翻译
+            docx-doc: 'https://hellowac.github.io/docx_doc/'  # python-docx 文档中文翻译
+            database-doc: 'https://hellowac.github.io/database_doc/'  # python-docx 文档中文翻译
+            linux-doc: 'https://hellowac.github.io/linux_doc/'  # python-docx 文档中文翻译
             # ddd-cn: 'https://hellowac.github.io/ddd_doc/'  # ddd 文档中文翻译
             # Bulma: 'https://bulma.io'
     # Categories widget configurations
